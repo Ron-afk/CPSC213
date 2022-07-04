@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "cstdlib": "c",
+        "mutex": "c",
+        "algorithm": "c",
+        "locale": "c",
+        "memory": "c"
+    }
+}
